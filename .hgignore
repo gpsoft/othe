@@ -1,0 +1,9 @@
+syntax: glob
+./.git
+./bin
+./classes
+./target
+./.settings
+.lein-repl-history
+.nrepl-port
+*.orig
