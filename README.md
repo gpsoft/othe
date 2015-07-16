@@ -14,5 +14,4 @@ Distributed under the Eclipse Public License, the same as Clojure.
 
 # In Japanese(日本語で)
 
-オセロに似たゲームをClojureで書いてみました。Clojureも関数型プログラミングも初挑戦です。
-このプログラムを教材として使った電子書籍「Clojureで、初めての関数型プログラミング」をアマゾンで販売中です。
+オセロに似たゲームをClojureで書いてみました。Clojureも関数型プログラミングも、これが初挑戦でした。このプログラムを教材として使った電子書籍「Clojureで、初めての関数型プログラミング」をアマゾンで販売中です。
